@@ -1,0 +1,86 @@
+2025-07-12 06:35:29,981 - __main__ - INFO - Open Interpreter configured with enhanced capabilities
+2025-07-12 06:35:29,981 - __main__ - INFO - Enhanced OpenInterpreter Agent initialized
+2025-07-12 06:35:29,981 - __main__ - INFO - System: Windows 10.0.26100
+2025-07-12 06:35:29,981 - __main__ - INFO - Ollama: http://localhost:11434 with model 'luna'
+2025-07-12 06:35:53,401 - __main__ - INFO - Executing file_operation task: Create a test file named 'test_file.txt' with current timestamp
+2025-07-12 06:35:59,124 - LiteLLM - INFO - 
+LiteLLM completion() model= luna; provider = ollama
+2025-07-12 06:36:01,197 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:07,491 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 06:36:09,560 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:09,586 - LiteLLM - INFO - 
+LiteLLM completion() model= luna; provider = ollama
+2025-07-12 06:36:09,633 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:09,683 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:11,665 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:14,669 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 06:36:14,737 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:14,894 - __main__ - INFO - Task completed successfully in 21.49s
+2025-07-12 06:36:14,895 - __main__ - INFO - Executing file_operation task: Show current directory contents and system memory usage
+2025-07-12 06:36:14,937 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:14,978 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:16,136 - LiteLLM - INFO - 
+LiteLLM completion() model= luna; provider = ollama
+2025-07-12 06:36:16,184 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:16,745 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 06:36:16,818 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:16,950 - __main__ - INFO - Task completed successfully in 2.06s
+2025-07-12 06:36:16,950 - __main__ - INFO - Executing file_operation task: Write a Python script that calculates fibonacci numbers
+2025-07-12 06:36:16,993 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:17,043 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:18,379 - LiteLLM - INFO - 
+LiteLLM completion() model= luna; provider = ollama
+2025-07-12 06:36:18,421 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:18,974 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 06:36:19,061 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:19,190 - __main__ - INFO - Task completed successfully in 2.24s
+2025-07-12 06:36:19,191 - __main__ - INFO - Executing file_operation task: Open notepad or text editor on this system
+2025-07-12 06:36:19,232 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:19,276 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:20,465 - LiteLLM - INFO - 
+LiteLLM completion() model= luna; provider = ollama
+2025-07-12 06:36:20,508 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:21,099 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 06:36:21,218 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:21,341 - __main__ - INFO - Task completed successfully in 2.15s
+2025-07-12 06:36:21,397 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:36:21,459 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:38:40,051 - __main__ - INFO - Executing file_operation task: create a notp.txt file in the this path  D:\playground\luna and write in the file how you actucally feel i want detailed answer
+2025-07-12 06:38:41,412 - LiteLLM - INFO - 
+LiteLLM completion() model= luna; provider = ollama
+2025-07-12 06:38:43,518 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:38:48,665 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 06:38:50,742 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:38:50,755 - __main__ - INFO - Task completed successfully in 10.70s
+2025-07-12 06:38:50,756 - __main__ - ERROR - Interactive mode error: 'list' object has no attribute 'get'
+2025-07-12 06:38:50,796 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:38:50,841 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:43:32,999 - __main__ - INFO - Open Interpreter configured with enhanced capabilities
+2025-07-12 06:43:32,999 - __main__ - INFO - Enhanced OpenInterpreter Agent initialized
+2025-07-12 06:43:32,999 - __main__ - INFO - System: Windows 10.0.26100
+2025-07-12 06:43:32,999 - __main__ - INFO - Ollama: http://localhost:11434 with model 'luna'
+2025-07-12 06:43:53,900 - __main__ - INFO - Executing app_launch task: open cursor
+2025-07-12 06:43:58,722 - LiteLLM - INFO - 
+LiteLLM completion() model= luna; provider = ollama
+2025-07-12 06:44:00,833 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:44:09,482 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 06:44:11,585 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:44:11,614 - LiteLLM - INFO - 
+LiteLLM completion() model= luna; provider = ollama
+2025-07-12 06:44:11,662 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:44:11,726 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:44:13,704 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:44:17,752 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 06:44:17,815 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:44:18,057 - __main__ - INFO - Task completed successfully in 24.16s
+2025-07-12 06:44:18,110 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:44:18,157 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:45:20,996 - __main__ - INFO - Executing file_operation task: create a file in the D:\playground\luna dir and write you feelings
+2025-07-12 06:45:21,523 - LiteLLM - INFO - 
+LiteLLM completion() model= luna; provider = ollama
+2025-07-12 06:45:23,623 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:45:26,607 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/generate "HTTP/1.1 200 OK"
+2025-07-12 06:45:26,674 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:45:29,890 - __main__ - INFO - Task completed successfully in 8.89s
+2025-07-12 06:45:29,935 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
+2025-07-12 06:45:29,977 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/show "HTTP/1.1 200 OK"
